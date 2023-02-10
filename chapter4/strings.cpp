@@ -12,6 +12,8 @@ void m2(string& s1, string& s2)
 {
     s1 = s1 + '\n';
     s2 += '\n';
+
+    int c = (123) + (234);
 }
 
 void substrings()
